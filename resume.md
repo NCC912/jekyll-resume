@@ -11,7 +11,7 @@ title: My Resume
 ## Experience
 - LLNL HPC Academy
   : Install HPC cluster krypton. Configured management network, infiniband, slurm, and MPI between the nodes. 
-    Installed lustre and configured lnet between OST/OSS, MGS/MDT, and 
+    Installed lustre and configured lnet between OST/OSS, MGS/MDT, and the Client 
 ### Contact Me:
 - [github](https://github.com/NCC912)
 - [linkedin](https://www.linkedin.com/in/naomi-c-10949b116/)
